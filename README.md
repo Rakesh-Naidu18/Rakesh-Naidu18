@@ -9,7 +9,8 @@ Feel free to explore my repositories and projects, and don't hesitate to reach o
 
 Let's connect and share our data journeys!
 
-🔗 LinkedIn: www.linkedin.com/in/rakeshparuchuri
+🔗 LinkedIn: www.linkedin.com/in/rakeshnaidu18
+
 📧 Email: rakeshnaidu.sk@gmail.com
 
 Happy analyzing!
