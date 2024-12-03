@@ -10,6 +10,7 @@ Feel free to browse my repositories and projects. If you have any questions or w
 - SQL – Data types, Aggregate Functions, Queries, Joins, Subqueries, CTEs, Window functions
 - Advanced Excel – Count if, Sum if, VLOOKUP, Index, Match, Macros, Pivot tables, Pivot charts, Power Pivot
 - Power BI – Data Reporting, DAX, Data Modelling, Data Cleaning, Power Query, ETL
+- Canva – Designing visual presentations and reports
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.datascienceportfol.io/rakeshnaidu)
