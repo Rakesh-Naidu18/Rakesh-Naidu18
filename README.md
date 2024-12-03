@@ -13,4 +13,4 @@ Feel free to browse my repositories and projects. If you have any questions or w
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.datascienceportfol.io/rakeshnaidu)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/rakeshnaidu18)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/rakeshnaidu18](https://www.linkedin.com/in/rakeshnaidu18/))
